@@ -1,0 +1,3 @@
+<!--pages/control/control.wxml-->
+<text>pages/control/control.wxml</text>
+<button bindtap="chufa">发送模板</button>

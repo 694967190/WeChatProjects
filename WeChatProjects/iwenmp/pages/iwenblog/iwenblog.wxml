@@ -1,0 +1,3 @@
+<!--pages/iwenblog/iwenblog.wxml-->
+<text>iwen的博客</text>
+<button  bindtap="gotobindinglog">绑定</button>

@@ -1,0 +1,4 @@
+<!--pages/bindinglog/bindinglog.wxml-->
+家长名:<input bindinput="Tieupone" type="text"/>
+学生名:<input bindinput="Tieupto" type="text"/>
+<button bindtap="handletap">绑定</button>
